@@ -1,3 +1,7 @@
+# Exercicio Cálculo IMC Fullture School
+O objetivo do exercio, é exercitar os conhecimentos sobre HTML, CSS e Javascript.
+
+
 # Cálculo IMC
 Cálculo IMC usando javascript e o framework bootstrap.
 
